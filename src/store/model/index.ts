@@ -22,6 +22,11 @@ import {Store} from './store';
 import {Zotac} from './zotac';
 import {config} from '../../config';
 import {logger} from '../../logger';
+import {QP} from './qp';
+import {InceHesap} from './incehesap';
+import {Vatan} from './vatan';
+import {Itopya} from './itopya';
+import {Sinerji} from './sinerji';
 
 const masterList = new Map([
 	[Adorama.name, Adorama],
@@ -44,7 +49,12 @@ const masterList = new Map([
 	[NvidiaApi.name, NvidiaApi],
 	[OfficeDepot.name, OfficeDepot],
 	[Pny.name, Pny],
-	[Zotac.name, Zotac]
+	[Zotac.name, Zotac],
+	[QP.name, QP],
+	[InceHesap.name, InceHesap],
+	[Vatan.name, Vatan],
+	[Itopya.name, Itopya],
+	[Sinerji.name, Sinerji]
 ]);
 
 const list = new Map();

@@ -65,6 +65,18 @@ export const QP: Store = {
 			model: 'tuf oc',
 			series: '3090',
 			url: 'https://www.qp.com.tr/asus-tuf-gaming-geforce-rtx-3090-oc-edition-24gb-384-bit-ekran-karti'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming pro',
+			series: '3080',
+			url: 'https://www.qp.com.tr/msi-geforce-rtx-3080-gaming-trio-10g-320-bit-ekran-karti'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x pro',
+			series: '3080',
+			url: 'https://www.qp.com.tr/msi-geforce-rtx-3080-gaming-x-trio-10g-320-bit-ekran-karti'
 		}
 	],
 	name: 'QP'

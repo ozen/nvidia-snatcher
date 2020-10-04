@@ -66,6 +66,12 @@ export const InceHesap: Store = {
 			series: '3090',
 			url: 'https://www.incehesap.com/asus-rog-strix-rtx3090-o24g-gaming-ekran-karti-fiyati-46755/'
 		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3080',
+			url: 'https://www.incehesap.com/msi-geforce-rtx-3080-gaming-x-trio-10g-gaming-ekran-karti-fiyati-46967/'
+		}
 	],
 	name: 'incehesap'
 };

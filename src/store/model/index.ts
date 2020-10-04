@@ -27,6 +27,7 @@ import {InceHesap} from './incehesap';
 import {Vatan} from './vatan';
 import {Itopya} from './itopya';
 import {Sinerji} from './sinerji';
+import {Hepsiburada} from './hepsiburada';
 
 const masterList = new Map([
 	[Adorama.name, Adorama],
@@ -54,7 +55,8 @@ const masterList = new Map([
 	[InceHesap.name, InceHesap],
 	[Vatan.name, Vatan],
 	[Itopya.name, Itopya],
-	[Sinerji.name, Sinerji]
+	[Sinerji.name, Sinerji],
+	[Hepsiburada.name, Hepsiburada]
 ]);
 
 const list = new Map();

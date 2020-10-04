@@ -71,6 +71,18 @@ export const Sinerji: Store = {
 			model: 'gaming x3',
 			series: '3090',
 			url: 'https://www.sinerji.gen.tr/inno3d-geforce-rtx3090-gaming-x3-24gb-gddr6x-384-bit-ekran-karti-p-37120'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming trio',
+			series: '3080',
+			url: 'https://www.sinerji.gen.tr/msi-geforce-rtx-3080-gaming-trio-10g-10gb-gddr6x-320-bit-ekran-karti-p-37099'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3080',
+			url: 'https://www.sinerji.gen.tr/msi-geforce-rtx-3080-gaming-x-trio-10g-10gb-gddr6x-320-bit-ekran-karti-p-37098'
 		}
 	],
 	name: 'sinerji'

@@ -65,6 +65,12 @@ export const Itopya: Store = {
 			model: 'rog strix oc',
 			series: '3090',
 			url: 'https://www.itopya.com/asus-rog-strix-geforce-rtx-3090-24gb-oc-gddr6x-384-bit-ekran-karti/'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming trio',
+			series: '3080',
+			url: 'https://www.itopya.com/msi-geforce-rtx-3080-gaming-trio-10g-10gb-gddr6x-320-bit-ekran-karti/'
 		}
 	],
 	name: 'itopya'

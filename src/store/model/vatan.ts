@@ -41,6 +41,18 @@ export const Vatan: Store = {
 			model: 'rog strix oc',
 			series: '3080',
 			url: 'https://www.vatanbilgisayar.com/asus-rog-strix-rtx3080-gaming-oc-10gb-gddr6x-320bit-dx12-ekran-karti.html'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming trio',
+			series: '3080',
+			url: 'https://www.vatanbilgisayar.com/msi-geforce-rtx-3080-gaming-trio-10g-10gb-gddr6x-320bit-nvidia-ekran-karti.html'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3080',
+			url: 'https://www.vatanbilgisayar.com/msi-geforce-rtx-3080-gaming-x-trio-10g-10gb-gddr6x-320bit-nvidia-ekran-karti.html'
 		}
 	],
 	name: 'vatan'

@@ -3,11 +3,11 @@ import {Store} from './store';
 export const BestBuy: Store = {
 	labels: {
 		inStock: {
-			container: '.v-m-bottom-g',
+			container: '[data-sticky-media-gallery] .fulfillment-add-to-cart-button',
 			text: ['add to cart']
 		},
 		maxPrice: {
-			container: 'div[class="priceView-hero-price priceView-customer-price"] > span',
+			container: '[data-sticky-media-gallery] .priceView-price .priceView-hero-price span',
 			euroFormat: false
 		}
 	},
@@ -17,6 +17,13 @@ export const BestBuy: Store = {
 			model: 'test:model',
 			series: 'test:series',
 			url: 'https://www.bestbuy.com/site/evga-ko-ultra-gaming-nvidia-geforce-rtx-2060-6gb-gddr6-pci-express-3-0-graphics-card-black-gray/6403801.p?skuId=6403801&intl=nosplash'
+		},
+		{
+			brand: 'nvidia',
+			cartUrl: 'https://api.bestbuy.com/click/-/6429442/cart',
+			model: 'founders edition',
+			series: '3070',
+			url: 'https://www.bestbuy.com/site/nvidia-geforce-rtx-3070-8gb-gddr6-pci-express-4-0-graphics-card-dark-platinum-and-black/6429442.p?skuId=6429442&intl=nosplash'
 		},
 		{
 			brand: 'nvidia',
@@ -84,7 +91,7 @@ export const BestBuy: Store = {
 		{
 			brand: 'gigabyte',
 			cartUrl: 'https://api.bestbuy.com/click/-/6436219/cart',
-			model: 'vision',
+			model: 'vision oc',
 			series: '3080',
 			url: 'https://www.bestbuy.com/site/gigabyte-geforce-rtx-3080-10g-gddr6x-pci-express-4-0-graphics-card-white/6436219.p?skuId=6436219&intl=nosplash'
 		},

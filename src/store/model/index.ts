@@ -53,6 +53,7 @@ import {Vatan} from './vatan';
 import {Itopya} from './itopya';
 import {Sinerji} from './sinerji';
 import {Hepsiburada} from './hepsiburada';
+import {AmazonTr} from './amazon-tr';
 
 export const storeList = new Map([
 	[Adorama.name, Adorama],
@@ -108,7 +109,8 @@ export const storeList = new Map([
 	[Vatan.name, Vatan],
 	[Itopya.name, Itopya],
 	[Sinerji.name, Sinerji],
-	[Hepsiburada.name, Hepsiburada]
+	[Hepsiburada.name, Hepsiburada],
+	[AmazonTr.name, AmazonTr]
 ]);
 
 const brands = new Set();

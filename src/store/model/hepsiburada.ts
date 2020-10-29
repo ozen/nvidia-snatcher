@@ -23,6 +23,12 @@ export const Hepsiburada: Store = {
 			model: 'tuf oc',
 			series: '3080',
 			url: 'https://www.hepsiburada.com/asus-geforce-rtx-3080-oc-10gb-320bit-gddr6x-dx12-pci-express-4-0-ekran-karti-tuf-rtx-3080-o10g-gaming-p-HBV00000XATX0'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3080',
+			url: 'https://www.hepsiburada.com/asus-geforce-rtx-3080-oc-10gb-320bit-gddr6x-dx12-pci-express-4-0-ekran-karti-tuf-rtx-3080-10g-gaming-p-HBV00000XATX2'
 		}
 	],
 	name: 'hepsiburada'

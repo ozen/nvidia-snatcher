@@ -53,7 +53,20 @@ export const Vatan: Store = {
 			model: 'gaming x trio',
 			series: '3080',
 			url: 'https://www.vatanbilgisayar.com/msi-geforce-rtx-3080-gaming-x-trio-10g-10gb-gddr6x-320bit-nvidia-ekran-karti.html'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3080',
+			url: 'https://www.vatanbilgisayar.com/evga-geforce-rtx-3080-xc3-gaming-10gb-gddrx-320bit-nvidia-ekran-karti.html'
+		},
+		{
+			brand: 'evga',
+			model: 'ftw3',
+			series: '3080',
+			url: 'https://www.vatanbilgisayar.com/evga-geforce-rtx-3080-ftw3-ultra-gaming-10gb-gddr6x-320bit-nvidia-ekran-karti.html'
 		}
+
 	],
 	name: 'vatan'
 };

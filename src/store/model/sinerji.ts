@@ -20,7 +20,7 @@ export const Sinerji: Store = {
 		},
 		{
 			brand: 'asus',
-			model: 'tuf oc',
+			model: 'tuf',
 			series: '3080',
 			url: 'https://www.sinerji.gen.tr/asus-geforce-rtx3080-tuf-10g-gaming-10gb-gddr6x-320-bit-ekran-karti-p-37113'
 		},
@@ -83,6 +83,12 @@ export const Sinerji: Store = {
 			model: 'gaming x trio',
 			series: '3080',
 			url: 'https://www.sinerji.gen.tr/msi-geforce-rtx-3080-gaming-x-trio-10g-10gb-gddr6x-320-bit-ekran-karti-p-37098'
+		},
+		{
+			brand: 'zotac',
+			model: 'trinity',
+			series: '3080',
+			url: 'https://www.sinerji.gen.tr/zotac-geforce-rtx3080-gaming-trinity-10gb-gddr6x-320-bit-ekran-karti-p-37129'
 		}
 	],
 	name: 'sinerji'

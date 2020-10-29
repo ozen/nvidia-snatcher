@@ -71,6 +71,12 @@ export const Itopya: Store = {
 			model: 'gaming trio',
 			series: '3080',
 			url: 'https://www.itopya.com/msi-geforce-rtx-3080-gaming-trio-10g-10gb-gddr6x-320-bit-ekran-karti/'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3080',
+			url: 'https://www.itopya.com/evga-geforce-rtx-3080-xc3-ultra-gaming-10gb-gddr6x-320-bit-ekran-karti/'
 		}
 	],
 	name: 'itopya'

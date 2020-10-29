@@ -71,6 +71,12 @@ export const InceHesap: Store = {
 			model: 'gaming x trio',
 			series: '3080',
 			url: 'https://www.incehesap.com/msi-geforce-rtx-3080-gaming-x-trio-10g-gaming-ekran-karti-fiyati-46967/'
+		},
+		{
+			brand: 'zotac',
+			model: 'trinity oc',
+			series: '3080',
+			url: 'https://www.incehesap.com/zotac-gaming-geforce-rtx-3080-trinity-oc-zt-a30800j-10p-gaming-ekran-karti-fiyati-47151/'
 		}
 	],
 	name: 'incehesap'

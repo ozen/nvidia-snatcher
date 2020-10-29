@@ -17,7 +17,7 @@ export const AmazonTr: Store = {
 			model: 'test:model',
 			series: 'test:series',
 			url: 'https://www.amazon.com.tr/dp/B07GQYQ2YW'
-		}
+		},
 		{
 			brand: 'asus',
 			model: 'tuf',
